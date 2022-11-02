@@ -1,9 +1,7 @@
 ### Hola! Soy Julian 👋
 ___________________________________________________________________________________________________________________
 
-• Desarrollador de páginas web responsivas haciendo uso de marcos de trabajo y preprocesadores.
-
-• Desarrollador  de aplicaciones web “Front-End” haciendo uso de la librería ReactJS.
+Soy un desarrollador frontend  de Bogota (Colombia). Me gusta crear aplicaciones web rápidas con  React , fáciles de usar y construidas con las mejores prácticas.
 
 <!--
 **jans027/jans027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
