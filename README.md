@@ -1,5 +1,10 @@
 ### Hola! Soy Julian 👋
 ___________________________________________________________________________________________________________________
+
+• Desarrollador de páginas web responsivas haciendo uso de marcos de trabajo y preprocesadores.
+
+• Desarrollador  de aplicaciones web “Front-End” haciendo uso de la librería ReactJS.
+
 <!--
 **jans027/jans027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
