@@ -3,6 +3,8 @@ ________________________________________________________________________________
 
 Soy un desarrollador frontend  de Bogota (Colombia). Me gusta crear aplicaciones web rápidas con  [React](https://es.reactjs.org/) , fáciles de usar y construidas con las mejores prácticas.
 
+![Image text]
+
 <!--
 **jans027/jans027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
