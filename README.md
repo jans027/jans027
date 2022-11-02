@@ -5,6 +5,8 @@ Soy un desarrollador frontend  de Bogota (Colombia). Me gusta crear aplicaciones
 
 ![Image text](https://github.com/jans027/jans027/blob/master/wallpaper.png)
 
+![Image text](https://github.com/jans027/jans027/blob/master/wallpaper2.png)
+
 <!--
 **jans027/jans027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
