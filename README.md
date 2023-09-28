@@ -1,4 +1,4 @@
-### Hola! Soy Julian 👋
+### Hola! 👋
 ___________________________________________________________________________________________________________________
 
 Soy un desarrollador frontend  de Bogota (Colombia). Me gusta crear aplicaciones web rápidas con  [React](https://es.reactjs.org/) , fáciles de usar y construidas con las mejores prácticas.
